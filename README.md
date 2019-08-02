@@ -18,10 +18,7 @@ List of supported games:
 The only supported platform is Windows PC.
 For Grand Theft Auto V, the “mods” folder also supported.
 
-[Version 2.1 Specification]()
-
-[Version 2.0 Specification (*deprecated*)]()
-
+[Version 2.1 Specification](https://github.com/OpenIV-Team/OpenIV-PackageFormat/blob/master/specification/versions/2.1.md)
 
 ## Version 1.1 (*deprecated*)
 First generation of OIV packages. Can have multiple contents for one or several games. This version support following games:
@@ -33,7 +30,7 @@ The only supported platform is Windows PC.
 
 *This generation deprecated and will not evolve in future.*
 
-[Version 1.1 Specification (*deprecated*)]()
+[Version 1.1 Specification (*deprecated*)](https://github.com/OpenIV-Team/OpenIV-PackageFormat/blob/master/specification/versions/1.1.md)
 
 ## OpenIV Support
 At the current moment latest version of OpenIV supports the following versions of OIV Package Format:
