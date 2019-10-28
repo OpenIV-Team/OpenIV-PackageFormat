@@ -30,7 +30,7 @@ The only supported platform is Windows PC.
 
 *This generation deprecated and will not evolve in future.*
 
-### Second Generation (*current version 2.1*)
+### Second Generation (*current version 2.2*)
 Second generation of OIV packages. Main difference from the first generation, it can contain only one content block for only one game. Also, it has additional options for controlling appearance of Package Installer.
 
 List of supported games:
